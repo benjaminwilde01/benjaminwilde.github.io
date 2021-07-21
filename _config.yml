@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Hello. I'm Ben Wilde."
-email: "boshan.xiang@gmail.com"
-description: "I'm a software developer and former M&A attorney from Denver, CO. I'm interested in automation, enterprise technology and the future of work."
+title: "Hello. I'm Benjamin Wilde."
+email: "benjamin.wilde09@gmail.com"
+description: "I'm a software developer and former Operations Manager from Austin, TX. I’m enthusiastic about building programs and discovering new and efficient ways to accomplish tasks. I am a determined worker and a firm believer in the power of being a student for life. What I offer is an eager desire to learn as well as  the capabilities to provide value in a noticeable way."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://boshanxiang.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
-github_username: "boshanxiang"
-linkedin_username: "bo-xiang"
+url: "https://benjaminwilde.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
+github_username: "benjaminwilde01"
+linkedin_username: "benjamin-wilde"
 
 # Build settings
 markdown: kramdown
@@ -88,8 +88,8 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: "© 2021 Bo Xiang"
-admin_name: "Bo Xiang"
+footer_text: "© 2021 Benjamin Wilde"
+admin_name: "Ben Wilde"
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
@@ -99,6 +99,6 @@ nav_item:
   - { url: "/", text: "Home" }
   - { url: "/about", text: "About" }
   - {
-      url: "https://drive.google.com/file/d/14iBxdwRbobuKsxHtLlljAjMq0xZ5MoJT/view?usp=sharing",
+      url: "https://docs.google.com/document/d/1gRKsUv6qggQumiaLdoCLZc0SAfOV6FTFfVqOGYQ60UY/edit?usp=sharing",
       text: "Resume",
     }
